@@ -1,5 +1,8 @@
 # 💵Bahrain imports(2020-2023)
 ---
+<img width="900" height="394" alt="Screenshot 2025-09-10 111426" src="https://github.com/user-attachments/assets/da95dd42-091a-4bca-a7b6-727dcbb41b8e" />
+
+---
 ### 👀 Project Overview
 This dashboard highlights Bahrain’s import trends from 2020 to 2023, focusing on top supplier countries, key categories, and overall changes in import values.
 ---
